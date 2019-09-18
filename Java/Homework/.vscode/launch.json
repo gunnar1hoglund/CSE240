@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TEST",
+            "request": "launch",
+            "mainClass": "app.TEST",
+            "projectName": "Homework"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Assignment",
+            "request": "launch",
+            "mainClass": "app.Assignment",
+            "projectName": "Homework"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "app.App",
+            "projectName": "Homework"
+        }
+    ]
+}
